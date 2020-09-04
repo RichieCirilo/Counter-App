@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="tap">Tap</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+    <string name="random">Add Random</string>
+</resources>
